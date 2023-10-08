@@ -2,8 +2,5 @@
   "cSpell.words": [
     "Noti",
     "PUTCH"
-  ],
-    "editor.formatOnSave": true,
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  ]
 }
-
